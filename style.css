@@ -110,7 +110,7 @@ footer {
   font-weight: 900;
   z-index: 999;
   text-decoration: none;
-  margin: 55px auto;
+  margin: 55px auto 0 auto;
 }
 
 footer p a{
