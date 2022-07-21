@@ -14,6 +14,8 @@
 ### Built with
 - HTML
 - CSS
+- JavaScript
+- API
    
 
 ### Useful resources
